@@ -4,10 +4,10 @@ name: Miguel Sevilla-Callejo
 e-mail: msevilla00@gmail.com
 
 websites:
-  main: https://sites.google.com/site/msevilla00/
+  main: https://msevilla00.gitlab.io/
   linkedin: https://www.linkedin.com/in/sevillacallejo/
   twitter: msevilla00
-  github: msevilla00
+  gitlab: msevilla00
 
 groups:
   - zaragoza
